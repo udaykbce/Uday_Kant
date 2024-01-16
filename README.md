@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Uday</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
